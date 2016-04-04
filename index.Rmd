@@ -1,7 +1,7 @@
 ---
 title: "Practical Machine Learning Course Project"
 author: "Demyd Dzyuban"
-date: "4 квітня 2016 р."
+date: "4."
 output: html_document
 ---
 
